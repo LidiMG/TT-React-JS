@@ -1,0 +1,13 @@
+.ativo{
+    color: black;
+    background: darkgreen;
+    padding: 15px;
+    width: 70px;
+}
+
+.inativo{
+    color: #fff;
+    background: darkred;
+    padding: 15px;
+    width: 70px;
+}
